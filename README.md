@@ -10,4 +10,5 @@ In this notebook, I first got familiar with the different datasets by using diff
 - Cat boost
 - XG boost
 
-I had accuracy ranging from 65% to 70% and I then saved the results in a .csv file following the guidelines for formatting that were asked for the challenge.
+I had accuracy ranging from 65% to 70% with these algorithms.
+For my submission, I used the XG boost model, because it was the more accurate and because it was the more pertinent one to use. I then proceeded to save the results in a .csv file following the formatting guidelines requested of the challenge participants.

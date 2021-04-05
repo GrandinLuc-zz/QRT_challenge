@@ -9,4 +9,5 @@ In this notebook, I first got familiar with the different datasets by using diff
 - Random forest
 - Cat boost
 - XG boost
+
 I had accuracy ranging from 65% to 70% and I then saved the results in a .csv file following the guidelines for formatting that were asked for the challenge.
